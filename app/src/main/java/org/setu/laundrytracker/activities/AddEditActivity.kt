@@ -1,4 +1,4 @@
-package org.setu.laundrytracker
+package org.setu.laundrytracker.activities
 
 import android.os.Bundle
 import android.widget.Button
@@ -7,6 +7,7 @@ import android.widget.EditText
 import android.widget.LinearLayout
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import org.setu.laundrytracker.main.AppData
 import org.setu.laundrytracker.models.MachineModel
 
 class AddEditActivity : AppCompatActivity() {

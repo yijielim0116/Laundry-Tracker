@@ -1,4 +1,4 @@
-package org.setu.laundrytracker
+package org.setu.laundrytracker.activities
 
 import android.content.Intent
 import android.os.Bundle
@@ -7,6 +7,7 @@ import android.widget.Button
 import android.widget.LinearLayout
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import org.setu.laundrytracker.main.AppData
 
 class MainActivity : AppCompatActivity() {
 
